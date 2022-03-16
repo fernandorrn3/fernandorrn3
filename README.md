@@ -1,4 +1,19 @@
-### Ola eu me chamo Fernando Alcantara 👋
+<div><h1> Ola eu me chamo Fernando Alcantara 👋</h1></div> 
+
+<div>
+ <h2>:writing_hand: Sobre Mim</h2> 
+  
+  <ul>
+    <li>sou engenheiro front-end</li> 
+  </ul>  
+
+</div> 
+
+[![Gmail Badge](https://img.shields.io/badge/fernando.aoliveira223@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
+)](mailto:fernando.aoliveira223@gmail.com)
+
+
+
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/fernando-alcantara-6a1aa8136/)
 
 
