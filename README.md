@@ -27,9 +27,11 @@
 </div><br/>
 
 
+ 
 
-
-<div><h2>:envelope: Contato</h2>
+<div>
+ 
+<h2>:envelope: Contato</h2>
 
  [![Gmail Badge](https://img.shields.io/badge/fernando.aoliveira223@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white
 )](mailto:fernando.aoliveira223@gmail.com)
